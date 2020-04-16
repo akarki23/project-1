@@ -1,1 +1,1 @@
-g_key="AIzaSyA7EY5JlTaz-6pkM6BWBYC5I-ImNHJlG3M"
+g_key=""

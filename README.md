@@ -10,3 +10,5 @@ https://www.bjs.gov/developer/ncvs/personalFields.cfm -Personal Victimization
 https://www.bjs.gov/developer/ncvs/householdFields.cfm - Household Victimization
 
 https://www.bjs.gov/developer/ncvs/methodology.cfm - Methodology
+
+http://data-ral.opendata.arcgis.com/datasets/raleigh-police-incidents-nibrs - Raleigh Police Incidents (NIBRS)
